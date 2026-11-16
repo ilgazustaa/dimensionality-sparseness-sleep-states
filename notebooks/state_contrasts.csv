@@ -1,0 +1,13 @@
+measure,contrast,n,n_positive,median_difference,iqr_low,iqr_high,p_signed_rank
+converted tail index (steepness),Wake - NREM,34,31,0.186,0.064,0.39,5.79e-07
+converted tail index (steepness),Wake - REM,34,28,0.223,0.04,0.352,2.83e-06
+converted tail index (steepness),NREM - REM,34,15,-0.017,-0.105,0.072,0.488
+participation ratio,Wake - NREM,34,7,-3.117,-7.894,-0.548,0.000291
+participation ratio,Wake - REM,34,8,-5.013,-7.391,-0.628,0.000501
+participation ratio,NREM - REM,34,18,0.566,-2.607,3.292,0.698
+components for 90 % of variance,Wake - NREM,34,1,-5.42,-7.93,-3.17,6.48e-07
+components for 90 % of variance,Wake - REM,34,4,-4.02,-6.95,-1.065,5.42e-06
+components for 90 % of variance,NREM - REM,34,26,1.6,0.39,2.96,0.00113
+mean active fraction,Wake - NREM,34,7,-0.064,-0.088,-0.017,7.67e-07
+mean active fraction,Wake - REM,34,4,-0.039,-0.064,-0.023,4.32e-08
+mean active fraction,NREM - REM,34,16,-0.004,-0.013,0.041,0.238

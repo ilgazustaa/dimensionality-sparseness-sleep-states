@@ -1,0 +1,19 @@
+scope,n,negative,statistic,p,detectable_rho,note
+"across populations, Wake: recruitment vs participation ratio",34,,0.445,0.008,0.34,partial rho controlling recorded units +0.43 (p=0.010)
+"across populations, NREM: recruitment vs participation ratio",34,,0.021,0.908,0.34,partial rho controlling recorded units +0.08 (p=0.662)
+"across populations, REM: recruitment vs participation ratio",34,,0.194,0.273,0.34,partial rho controlling recorded units +0.20 (p=0.247)
+"across populations, Wake: recruitment vs components for 90 % variance",34,,0.509,0.002,0.34,partial rho controlling recorded units +0.49 (p=0.003)
+"across populations, NREM: recruitment vs components for 90 % variance",34,,-0.027,0.879,0.34,partial rho controlling recorded units -0.06 (p=0.757)
+"across populations, REM: recruitment vs components for 90 % variance",34,,-0.008,0.962,0.34,partial rho controlling recorded units -0.03 (p=0.870)
+"across populations, Wake: recruitment vs converted tail index",34,,-0.322,0.063,0.34,partial rho controlling recorded units -0.19 (p=0.290)
+"across populations, NREM: recruitment vs converted tail index",34,,-0.029,0.87,0.34,partial rho controlling recorded units +0.17 (p=0.325)
+"across populations, REM: recruitment vs converted tail index",34,,-0.001,0.997,0.34,partial rho controlling recorded units -0.05 (p=0.768)
+"across populations, Wake, rat CA1 only",7,,0.0,1.0,0.75,"recruitment vs participation ratio, region held fixed"
+"across populations, Wake, rat amygdala only",19,,0.707,0.001,0.46,"recruitment vs participation ratio, region held fixed"
+"across populations, Wake, rat frontal cortex only",5,,0.4,0.505,0.88,"recruitment vs participation ratio, region held fixed"
+"across populations, NREM, rat CA1 only",7,,-0.179,0.702,0.75,"recruitment vs participation ratio, region held fixed"
+"across populations, NREM, rat amygdala only",19,,0.211,0.387,0.46,"recruitment vs participation ratio, region held fixed"
+"across populations, NREM, rat frontal cortex only",5,,0.4,0.505,0.88,"recruitment vs participation ratio, region held fixed"
+"across populations, REM, rat CA1 only",7,,0.107,0.819,0.75,"recruitment vs participation ratio, region held fixed"
+"across populations, REM, rat amygdala only",19,,-0.044,0.858,0.46,"recruitment vs participation ratio, region held fixed"
+"across populations, REM, rat frontal cortex only",5,,0.0,1.0,0.88,"recruitment vs participation ratio, region held fixed"

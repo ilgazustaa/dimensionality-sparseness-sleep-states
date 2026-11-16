@@ -1,0 +1,7 @@
+scoring,state,bins,active_frac,sd,rate_hz,pairwise_r,alpha_3_50
+lab (sessInfo),Wake,5698,0.2533,0.1071,0.8566,0.0631,0.8123
+lab (sessInfo),NREM,15488,0.304,0.1446,0.6702,0.0984,0.6404
+lab (sessInfo),REM,2653,0.2233,0.085,0.7144,0.0382,0.6278
+archive (DANDI),Wake,16747,0.2356,0.1185,0.7194,0.0839,0.8086
+archive (DANDI),NREM,15890,0.3014,0.1448,0.6684,0.099,0.6258
+archive (DANDI),REM,2071,0.2205,0.0826,0.7418,0.036,0.6221
